@@ -48,5 +48,5 @@ print("No. of disks =",n)
 ### RESULT
 Therefore, the output is the example to write a Python program to implement Tower of Hanoi and display all the moves of the disks using a recursive function.
 Consider the names of the tower pegs as A, B, C. Get the number of disks value from the user.
-### RESULT
+
 
